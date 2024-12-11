@@ -18,7 +18,7 @@ The diverse culinary heritage of Indonesia is often overlooked, with many people
 | M014B4KY1842 | I Komang Gede Jefri Suparjana |      ML       |  [Github](https://github.com/JefriSuparjana) & [Linkedin](https://www.linkedin.com/in/i-komang-gede-jefri-suparjana/)   |
 | M497B4KX2271 | Like Sagitri Helen            |      ML       |    [Github](https://github.com/likesagitri) & [Linkedin](https://www.linkedin.com/in/like-sagitri-helen-a5a418288/)     |
 | C116B4KY2612 | Muh. Rafi Al' Ayyubi          |      CC       |              [Github](https://github.com/ryushix) & [Linkedin](https://www.linkedin.com/in/rafialayyubi/)               |
-| C014B4KY3536 | Putu Krisna Rhesa Pradnyana   |      CC       |    [Github](https://github.com/Krisnarhesa) & [Linkedin](www.linkedin.com/in/putu-krisna-rhesa-pradnyana-b05a60256)     |
+| C014B4KY3536 | Putu Krisna Rhesa Pradnyana   |      CC       |    [Github](https://github.com/Krisnarhesa) & [Linkedin](https://www.linkedin.com/in/putu-krisna-rhesa-pradnyana-b05a60256)     |
 
 ## Repositories
 
